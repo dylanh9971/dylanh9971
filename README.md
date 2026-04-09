@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Dylan! 👋
+
+Independent Web Developer | Computing & IT
+
+Based in Ireland 🇮🇪
+
+• I'm happy to collaberate on projects so get in touch
+
+• Always seeking mentorship to strengthen my ability
+
+• Contact me at sullivanwebworks@hotmail.com or dylan9971@hotmail.co.uk
+
+Check out My portfolio 
+🖥️ https://www.sullivanwebworks.com/
 
 <!--
 **dylanh9971/dylanh9971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
