@@ -8,10 +8,10 @@ Based in Ireland 🇮🇪
 
 • Always seeking mentorship to strengthen my ability
 
-• Contact me at sullivanwebworks@hotmail.com or dylan9971@hotmail.co.uk
+• Contact me at dylan9971@hotmail.co.uk
 
 Check out My portfolio 
-🖥️ https://www.sullivanwebworks.com/
+🖥️ https://www.dylan-sullivan.com/
 
 <!--
 **dylanh9971/dylanh9971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
